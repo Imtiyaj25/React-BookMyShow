@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container1{
+    background: url(src/assets/image-35.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    margin: 25px 0 40px 0;
+    padding-top: 25px;
+}
+.comp p{
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 55px;
+}
+.comp .text-1{
+    margin-bottom: -55px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 45px;
+    color: black;
+}
