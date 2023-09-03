@@ -14,7 +14,7 @@ const Home = () => {
       <section class="home" id="home">
         <div class="max-width">
             <div class="home-content">
-                <div class="text-1">Hello, my name is</div>
+                <div class="text-1">Deal Of The Day</div>
                 <div class="text-2">Everything That's<br/>New And Now</div>
                 <div class="text-3">Be Hurry for <span class="typing">{text}</span><Cursor/></div>
                 <a href="contact">Contact me..!</a>
