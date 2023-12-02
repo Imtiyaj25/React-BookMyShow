@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+Movie Booking Project
+Welcome to the Movie Booking Project! This project allows users to browse and book movie tickets for their favorite films.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Table of Contents
+Introduction
+Features
+Getting Started
+Prerequisites
+Installation
+Usage
+Technologies Used
+Contributing
+License
+Acknowledgments
+Introduction
+The Movie Booking Project is a web application that provides users with a platform to discover, explore, and book tickets for movies. It incorporates an intuitive user interface to streamline the booking process and enhance the overall movie-going experience.
 
-## Available Scripts
+Features
+Movie Listings: Browse through a curated list of available movies.
+Showtimes: View showtimes for each movie to plan your visit.
+Seat Selection: Choose your preferred seats from an interactive seating chart.
+Booking Confirmation: Receive a confirmation of your booking with all relevant details.
+User Authentication: Securely sign up, log in, and manage your profile.
+Getting Started
+Prerequisites
+Before you begin, ensure you have the following installed:
 
-In the project directory, you can run:
+Node.js: Download here
+Installation
+Clone the repository:
 
-### `npm start`
+bash
+Copy code
+git clone https://github.com/your-username/movie-booking-project.git
+Navigate to the project directory:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
+Copy code
+cd movie-booking-project
+Install dependencies:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bash
+Copy code
+npm install
+Usage
+Start the development server:
 
-### `npm test`
+bash
+Copy code
+npm start
+Open your browser and visit http://localhost:3000.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Explore the movie listings, choose a showtime, select your seats, and proceed with the booking.
 
-### `npm run build`
+Technologies Used
+Frontend:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React
+Redux for state management
+Styled Components for styling
+Backend:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Node.js
+Express.js
+MongoDB for database
+Authentication:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+JSON Web Tokens (JWT)
+Others:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Axios for API requests
+Jest for testing
