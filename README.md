@@ -18,7 +18,7 @@ The Movie Booking Project is a web application that provides users with a platfo
 - Seat Selection: Choose your preferred seats from an interactive seating chart.
 - Booking Confirmation: Receive a confirmation of your booking with all relevant details.
 
-## Technologies Used
+## Technologies_Used
 
 - Frontend
   - React
