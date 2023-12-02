@@ -5,7 +5,7 @@ Welcome to the Movie Booking Project! This project allows users to browse and bo
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#TechnologiesUsed)
+- [Technologies Used](#Technologies_Used)
 
 ## Introduction
 
