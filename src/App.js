@@ -36,7 +36,7 @@ const App = () => {
   const handleBookingSubmit = async () => {
     try {
       const response = await axios.post(
-        "http://localhost:8080/api/booking",
+        "https://bookmyshow-backend-qg48.onrender.com/api/booking",
         {
           movie: selectedMovie,
           seats: seatSelections,
@@ -63,7 +63,7 @@ const App = () => {
 
   const fetchLastBooking = async () => {
     try {
-      const response = await axios.get("http://localhost:8080/api/booking");
+      const response = await axios.get("https://bookmyshow-backend-qg48.onrender.com/api/booking");
       setLastBooking(response.data);
     } catch (error) {
       console.error("Error fetching last booking:", error);
