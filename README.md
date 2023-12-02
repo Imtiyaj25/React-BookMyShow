@@ -21,10 +21,10 @@ The Movie Booking Project is a web application that provides users with a platfo
 ## Technologies Used
 
 - Frontend
-- - React
-- - Redux for state management
+  - React
+  - Redux for state management
   - SCSS for styling
 - Backend
-- - Node.js
+  - Node.js
   - Express.js
   - MongoDB for database
