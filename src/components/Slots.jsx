@@ -1,4 +1,3 @@
-// Slots.js
 import React from "react";
 
 // Functional component Slots receives props: slots, selectedSlot, onSlotClick
