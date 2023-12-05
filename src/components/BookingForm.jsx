@@ -1,4 +1,3 @@
-// BookingForm.js
 import React from "react";
 
 const BookingForm = ({ onSubmit }) => {
