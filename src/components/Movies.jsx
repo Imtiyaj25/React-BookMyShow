@@ -1,5 +1,5 @@
 import React from "react";
-
+import './Style.scss'
 /**
  * Component for rendering the list of movies.
  * 

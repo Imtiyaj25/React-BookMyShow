@@ -21,15 +21,26 @@
         width: auto;
         width: 30%;
         .submit-btn {
-            margin: 9px 0;
-            padding: 10px 20px;
-            border-radius: 5px;
-            background-color: rgb(59, 72, 81);
-            color: aliceblue;
-            border: 1px solid;
+            // text-align: center;
+            // border-radius: 9px;
+            // margin-bottom: 9px;
+            // font-size: 1em;
+            // color: white;
+            // background: rgb(44, 209, 88);
+            // background: -moz-linear-gradient(233deg, rgba(44, 209, 88, 1) 0%, rgba(44, 108, 224, 1) 100%);
+            // background: -webkit-linear-gradient(233deg, rgba(44, 209, 88, 1) 0%, rgba(44, 108, 224, 1) 100%);
+            // background: linear-gradient(233deg, rgba(44, 209, 88, 1) 0%, rgba(44, 108, 224, 1) 100%);
+            // filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2cd158", endColorstr="#2c6ce0", GradientType=1);
+            // padding: 5px 15px;
+            // font-weight: 500;
             cursor: pointer;
-            font-size: 17px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            margin-bottom:9px;
+            border-radius: 9px; // Slightly rounded corners
+            padding: 12px;
+            color: #fff;
+            background: #3b4851; // Dark background color
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); // Subtle box shadow
+            font-size: 18px;
             &:hover {
                 background-color: #2980b9;
             }

@@ -41,6 +41,7 @@ const App = () => {
     try {
       const response = await axios.post(
         "https://bookmyshow-backend-qg48.onrender.com/api/booking",
+        // Database link
         {
           movie: selectedMovie,
           seats: seatSelections,
