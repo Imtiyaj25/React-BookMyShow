@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-BookMyShow/static/css/main.13c7fef0.css",
-    "main.js": "/React-BookMyShow/static/js/main.28fdfc83.js",
+    "main.js": "/React-BookMyShow/static/js/main.45526c8b.js",
     "static/js/787.9e9f4ffd.chunk.js": "/React-BookMyShow/static/js/787.9e9f4ffd.chunk.js",
     "index.html": "/React-BookMyShow/index.html",
     "main.13c7fef0.css.map": "/React-BookMyShow/static/css/main.13c7fef0.css.map",
-    "main.28fdfc83.js.map": "/React-BookMyShow/static/js/main.28fdfc83.js.map",
+    "main.45526c8b.js.map": "/React-BookMyShow/static/js/main.45526c8b.js.map",
     "787.9e9f4ffd.chunk.js.map": "/React-BookMyShow/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13c7fef0.css",
-    "static/js/main.28fdfc83.js"
+    "static/js/main.45526c8b.js"
   ]
 }
